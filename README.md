@@ -1,3 +1,7 @@
+# m3_lucas_linus_maskininl-rningsramverk
+Maskininlärningsramverk M3
+Pull request 1:
+Pull request 2:
 # M3 - Model Serving & Deployment (FastAPI + Docker)
 
 This project serves a trained PyTorch model (from K2) through a FastAPI REST API and runs it in Docker.
