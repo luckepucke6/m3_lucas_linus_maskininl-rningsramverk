@@ -187,6 +187,7 @@ Kunna bygga och köra systemet via Docker.
 3. Kör container:
    docker run -p 8000:8000 m3-serving
 
+}
 4. Testa endpoint
 
 ## Definition of Done
