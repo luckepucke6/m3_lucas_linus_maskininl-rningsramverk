@@ -16,3 +16,6 @@ This project serves a trained PyTorch model (from K2) through a FastAPI REST API
 Build:
 ```bash
 docker build -t m3-serving .
+
+
+I denna "M3" är det Lucas Lindh och Linus Larsson som jobbat.
